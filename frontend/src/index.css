@@ -1,0 +1,15 @@
+.pos-item{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.pos-item:hover{
+    background: lightskyblue;
+    color: white;
+}
+
+.pos-item img{
+    width: 100%;
+    max-height: 100px;
+    object-fit: cover;
+}
